@@ -1,1 +1,1 @@
-# medical-porject
+# Medical Chatbot
